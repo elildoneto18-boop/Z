@@ -19,7 +19,7 @@ No `script.js`:
 - `CALLS`: histórico de chamadas perdidas e atendidas.
 
 ## Áudio secreto do discador
-Ao digitar `67` no teclado da emergência, o jogo reproduz `assets/audio/emergency-67.opus`. O arquivo de áudio enviado foi incluído diretamente no projeto. A reprodução depende do suporte do navegador ao formato Opus.
+Ao digitar `67` no teclado da emergência, o jogo reproduz `assets/audio/emergency-67.mp3`. O arquivo de áudio enviado foi incluído diretamente no projeto. A reprodução depende do suporte do navegador ao formato Opus.
 
 ## Imagens
 `./assets/images/profile-elildo.jpg` é usada como foto de perfil do contato Elildo. `./home-wallpaper.jpg` e `./lockscreen-wallpaper.jpg` são os papéis de parede de referência. `./chat-reference.jpg` e `./calls-reference.jpg` ficam disponíveis para novas personalizações.
